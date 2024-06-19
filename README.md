@@ -14,14 +14,8 @@ Hi, this is CoderJoon
 
 </div>
 
-
-
-[![Wnagfeng's GitHub | Stats](https://stats.quira.sh/Wnagfeng/github?theme=dark)](https://quira.sh?utm_source=widgets&utm_campaign=Wnagfeng)
-
-
-
-[![Wnagfeng's GitHub | Topics Over Time](https://stats.quira.sh/Wnagfeng/topics-over-time?theme=dark)](https://quira.sh?utm_source=widgets&utm_campaign=Wnagfeng)
+<div id="title" align=center>
 
 
 
-[![Wnagfeng's GitHub | Languages Over Time](https://stats.quira.sh/Wnagfeng/languages-over-time?theme=dark)](https://quira.sh?utm_source=widgets&utm_campaign=Wnagfeng)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Wnagfeng&show_icons=true&theme=tokyonight)](https://b23.tv/iEJTnPp)
