@@ -4,7 +4,7 @@ Hi, this is CoderJoon
 
 <div align=center>
 
-[![Juejin](https://img.shields.io/badge/juejin-菲鸽-1e80ff?logo=juejin)](https://juejin.cn/user/3263006241460792)
+[![csdn][(https://blog.csdn.net/weixin_47121832?spm=1000.2115.3001.5343)](https://blog.csdn.net/weixin_47121832?spm=1000.2115.3001.5343)
 [![Github Stars](https://img.shields.io/github/stars/codercup?color=red&label=github%20stars&logo=github&style=flat)](https://github.com/codercup)
 ![Profile View Counter](https://komarev.com/ghpvc/?username=codercup&base=1000)
 ![Vue](https://img.shields.io/badge/-Vue-34495e?logo=vue.js)
