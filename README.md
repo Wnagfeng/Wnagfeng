@@ -1,11 +1,5 @@
-
-
-<img alt="CoderJoon" src="./assets/avatar.jpg" width=100 />
-
-</p>-->
-
 <h2 align=center>
-Hi, this is codercup（菲鸽） :wave:
+Hi, this is CoderJoon
 </h2>
 
 <div align=center>
