@@ -1,0 +1,7 @@
+# git rm -r --cached file1 file2  ## 针对某些文件
+# git rm -r --cached dir1 dir2  ## 针对某些文件夹
+# git rm -r --cached .  ## 针对所有文件
+
+./assets/github-snake-dark.svg
+./assets/github-snake.svg
+./assets/ocean-snake.gif
