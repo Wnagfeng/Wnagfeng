@@ -4,9 +4,6 @@ Hi, this is CoderJoon
 
 <div align=center>
 
-[![csdn][(https://blog.csdn.net/weixin_47121832?spm=1000.2115.3001.5343)](https://blog.csdn.net/weixin_47121832?spm=1000.2115.3001.5343)
-[![Github Stars](https://img.shields.io/github/stars/codercup?color=red&label=github%20stars&logo=github&style=flat)](https://github.com/codercup)
-![Profile View Counter](https://komarev.com/ghpvc/?username=codercup&base=1000)
 ![Vue](https://img.shields.io/badge/-Vue-34495e?logo=vue.js)
 ![React](https://img.shields.io/badge/-React-282c34?logo=react)
 ![Nodejs](https://img.shields.io/badge/-Nodejs-34495e?logo=node.js)
