@@ -1,4 +1,4 @@
-<!--
+
 **codercup/codercup** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<!--<p align=center>
+<p align=center>
 
 <img alt="菲鸽" src="./assets/avatar.jpg" width=100 />
 
