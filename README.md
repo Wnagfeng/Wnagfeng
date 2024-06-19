@@ -1,6 +1,9 @@
 <h2 align=center>
 Hi, this is CoderJoon
 </h2>
+<h2 align=center>
+一个菜鸟
+</h2>
 
 <div align=center>
 
