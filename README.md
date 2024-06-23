@@ -2,7 +2,7 @@
 Hi, this is CoderJoon
 </h2>
 <h2 align=center>
-一个菜鸟
+一个菜鸟，站在巨人的肩上
 </h2>
 
 <div align=center>
@@ -20,7 +20,5 @@ Hi, this is CoderJoon
 <div id="title" align=center>
 
 
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Wnagfeng&show_icons=true&theme=tokyonight)](https://blog.csdn.net/weixin_47121832?spm=1000.2115.3001.5343)
 
 
